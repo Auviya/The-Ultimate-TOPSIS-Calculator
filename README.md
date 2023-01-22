@@ -6,12 +6,11 @@ Just clone this repository to your own device and open main.py locally.
 Change path values on line 26 and 36
 then just run it locally
 and you're done!
+![Settings Window](https://github.com/Auviya/The-Ultimate-TOPSIS-Calculator/blob/905fd3c2a8334c491ee4c786d683d473d75bc8a8/images/Screenshot%202023-01-22%20at%206.05.38%20PM.png)
+![Settings Window](https://github.com/Auviya/The-Ultimate-TOPSIS-Calculator/blob/905fd3c2a8334c491ee4c786d683d473d75bc8a8/images/Screenshot%202023-01-22%20at%206.05.45%20PM.png)
 
-![Alt text](images/Screenshot 2023-01-22 at 6.05.45 PM.png?raw=true "Optional Title")
 
-![Alt text](images/Screenshot 2023-01-22 at 6.05.38 PM.png?raw=true "Optional Title")
 
-![Alt text](images/Screenshot 2023-01-22 at 6.03.53 PM.png?raw=true "Optional Title")
 
 ![Alt text](images/IMG_6986.PNG?raw=true "Optional Title")
 ![Alt text](images/IMG_6987.PNG?raw=true "Optional Title")
