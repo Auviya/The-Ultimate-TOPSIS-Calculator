@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload File and Run Program</title>
+</head>
+<body>
+    <h1>Upload File and Run Program</h1>
+    <form method="post" enctype="multipart/form-data" action="{{ url_for('run_program') }}">
+        <input type="file" name="file">
+        <br>
+        <br>
+        <label>Weights:</label>
+        <input type="text" name="string1">
+        <br>
+        <br>
+        <label>Impact:</label>
+        <input type="text" name="string2">
+        <br>
+        <br>
+        <label>Email Id:</label>
+        <input type="email" name="string3">
+        <br>
+        <br>
+        <input type="submit" value="Run Program">
+    </form>
+</body>
+</html>
