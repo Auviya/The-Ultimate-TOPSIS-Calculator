@@ -25,8 +25,8 @@ def run_program():
 
       os.system("python3 ho\ ja\ yaar/WebApp/topsis.py" + f.filename + " " + string1 + " " + string2 + " " + string3)
       # Email credentials
-      username = "auviya023@gmail.com"
-      password = "hndwjgmirxqqeudu"
+      username = "email"
+      password = "password"
 
       # Recipient and sender email addresses
       to_email = string3
